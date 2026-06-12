@@ -1,5 +1,44 @@
 [
   {
+    "case_id": "CSRC-2026-047",
+    "date": "2026-06-12",
+    "subject": "首创证券福建分公司",
+    "subject_type": "公司",
+    "regulator": "福建证监局",
+    "violation_type": "基金销售违规",
+    "violation_desc": "在从事公募基金销售业务过程中，存在针对个别认购期基金实施特别的考核激励以及承诺本金限定损失金额的情形",
+    "penalty": "出具警示函",
+    "penalty_amount": 0,
+    "source": "福建证监局行政处罚决定书",
+    "source_url": "http://m.toutiao.com/group/7650311551441797670"
+  },
+  {
+    "case_id": "CSRC-2026-048",
+    "date": "2026-06-11",
+    "subject": "中国软件与技术服务股份有限公司",
+    "subject_type": "公司",
+    "regulator": "证监会",
+    "violation_type": "信息披露违规",
+    "violation_desc": "违反证券法律法规",
+    "penalty": "警告、罚款",
+    "penalty_amount": 4.05,
+    "source": "公开信息",
+    "source_url": "https://news.stockstar.com/source_list/证券之星观察.shtml"
+  },
+  {
+    "case_id": "CSRC-2026-051",
+    "date": "2026-06-11",
+    "subject": "海德股份-王广西（个人）",
+    "subject_type": "个人",
+    "regulator": "海南证监局",
+    "violation_type": "资金占用",
+    "violation_desc": "隐瞒8.84亿元非经营性资金占用，跨期2021-2024年",
+    "penalty": "警告、罚款、市场禁入",
+    "penalty_amount": 680,
+    "source": "行政处罚决定书〔2026〕3号",
+    "source_url": "http://m.toutiao.com/group/7650304651763761679"
+  },
+  {
     "case_id": "CSRC-2026-037",
     "date": "2026-06-10",
     "subject": "西安派瑞功率半导体变流技术股份有限公司",
@@ -11,6 +50,19 @@
     "penalty_amount": 500,
     "source": "行政处罚事先告知书",
     "source_url": "http://www.csrc.gov.cn"
+  },
+  {
+    "case_id": "CSRC-2026-049",
+    "date": "2026-06-10",
+    "subject": "22家证券公司",
+    "subject_type": "公司",
+    "regulator": "证监会及各地证监局",
+    "violation_type": "经纪业务违规",
+    "violation_desc": "存在从业人员私下接受客户委托买卖证券、合规培训和监控监测不到位、与互联网第三方平台营销合作管控不到位等问题",
+    "penalty": "警示函、罚款",
+    "penalty_amount": 0,
+    "source": "公开报道",
+    "source_url": "http://m.toutiao.com/group/7649584035953508914"
   },
   {
     "case_id": "CSRC-2026-009",
@@ -63,6 +115,19 @@
     "penalty_amount": 250,
     "source": "行政处罚事先告知书",
     "source_url": ""
+  },
+  {
+    "case_id": "CSRC-2026-050",
+    "date": "2026-06-06",
+    "subject": "退市海越",
+    "subject_type": "公司",
+    "regulator": "证监会",
+    "violation_type": "信息披露违规",
+    "violation_desc": "退市相关违规行为",
+    "penalty": "罚款",
+    "penalty_amount": 700,
+    "source": "公开信息",
+    "source_url": "https://news.stockstar.com/source_list/证券之星观察.shtml"
   },
   {
     "case_id": "CSRC-2026-001",
